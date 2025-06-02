@@ -2,7 +2,6 @@
 
 A collection of reusable UI components built with React, TypeScript, and Tailwind CSS.
 
-## Installation
 
 ```bash
 npm install todo-ui-components
