@@ -8,8 +8,6 @@ A collection of reusable UI components built with React, TypeScript, and Tailwin
 npm install todo-ui-components
 ```
 
-## Usage
-
 ```tsx
 import { Button, Card, Input } from 'todo-ui-components'
 
