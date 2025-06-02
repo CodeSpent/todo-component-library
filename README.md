@@ -2,13 +2,10 @@
 
 A collection of reusable UI components built with React, TypeScript, and Tailwind CSS.
 
-## Installation
 
 ```bash
 npm install todo-ui-components
 ```
-
-## Usage
 
 ```tsx
 import { Button, Card, Input } from 'todo-ui-components'
